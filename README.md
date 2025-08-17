@@ -44,45 +44,23 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
 
-<div align="center">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
 
   <!-- GitHub Stats -->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Priyabrata-parhi&show_icons=true&count_private=true&theme=dracula" 
     height="160" 
-    alt="GitHub Stats" 
-    style="margin-right: 20px;" 
+    alt="GitHub Stats"
   />
 
   <!-- Most Used Languages -->
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Priyabrata-parhi&layout=compact&langs_count=6&theme=dracula" 
     height="160" 
-    alt="Top Languages" 
+    alt="Top Languages"
   />
 
 </div>
-
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
-</p>
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Priyabrata-parhi/Priyabrata-parhi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Priyabrata-parhi/Priyabrata-parhi/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Priyabrata-parhi/Priyabrata-parhi/output/pacman-contribution-graph.svg">
-</picture>
-
-
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
-</p>
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Priyabrata-parhi/Priyabrata-parhi/output/snake.svg" alt="Snake animation" />
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
