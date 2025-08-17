@@ -44,25 +44,18 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
 
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: row; gap: 20px; flex-wrap: wrap;">
 
-  <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Priyabrata-parhi&show_icons=true&count_private=true&theme=dracula" 
-    height="160" 
-    alt="GitHub Stats"
-  />
-
-  <!-- Most Used Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Priyabrata-parhi&layout=compact&langs_count=6&theme=dracula" 
-    height="160" 
-    alt="Top Languages"
-  />
-
-</div>
+<table>
+  <tr>
+    <td style="padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Priyabrata-parhi&show_icons=true&count_private=true&theme=dracula" />
+    </td>
+    <td style="padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Priyabrata-parhi&layout=compact&langs_count=6&theme=dracula" />
+    </td>
+  </tr>
+</table>
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
-
