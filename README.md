@@ -44,7 +44,7 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: row; gap: 20px; flex-wrap: wrap;">
 
   <!-- GitHub Stats -->
   <img 
