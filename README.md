@@ -44,4 +44,8 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurishirke12&" alt="Priyabrata" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyabrata-parhi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Priyabrata-parhi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
